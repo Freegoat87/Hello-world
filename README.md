@@ -1,3 +1,4 @@
 # Hello-world
 Just another repository
-Freegoat
+by Freegoat
+(first timer)
